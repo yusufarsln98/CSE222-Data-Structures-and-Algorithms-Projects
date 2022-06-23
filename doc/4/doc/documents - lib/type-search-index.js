@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"lib","l":"DisplayBlocks"},{"p":"lib","l":"FindItemNumber"},{"p":"lib","l":"FindOccurrence"},{"p":"lib","l":"FindSumOfSubarrays"}];updateSearchResults();

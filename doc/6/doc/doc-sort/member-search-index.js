@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"lib.sorts","c":"MergeSort","l":"sort(T[])"},{"p":"lib.sorts","c":"NewSort","l":"sort(T[])"},{"p":"lib.sorts","c":"QuickSort","l":"sort(T[])"}];updateSearchResults();
